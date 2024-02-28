@@ -4,5 +4,5 @@ type carinfo = {
 };
 let car1: carinfo = {
     model:"Ford-353",
-    year:2024
+    year:2023
 };

@@ -1,4 +1,5 @@
-var car1 = {
+"use strict";
+let car1 = {
     model: "Ford-353",
-    year: 2024
+    year: 2023
 };
